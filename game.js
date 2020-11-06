@@ -14,77 +14,77 @@ let questions = [
 
     {
   
-      question: 'Garampani sanctuary is located at',
+      question: ' Name the weapon used by Lord Rama to kill Ravana in the battle fought at Lanka?',
   
-        choice1: 'Junagarh, Gujarat', 
+        choice1: 'Pashupastra', 
   
-        choice2: 'Diphu, Assam',   
-        choice3: 'Kohima, Nagaland', 
+        choice2: 'Brahmastra',   
+        choice3: 'Nagastra', 
   
-        choice4: 'Gangtok, Sikkim',
+        choice4: 'Shastra',
         answer: 2,  
       
   
     },
   
     {
-        question: 'Garampani sanctuary is located at',
+        question: 'Dussehra puja lasts how many days?',
   
-        choice1: 'Junagarh, Gujarat', 
+        choice1: '4 days', 
   
-        choice2: 'Diphu, Assam',   
-        choice3: 'Kohima, Nagaland', 
+        choice2: '6 days',   
+        choice3: '9 days', 
   
-        choice4: 'Gangtok, Sikkim',
-        answer: 2,  
+        choice4: '10 days',
+        answer: 3,  
       
     },
     {
-        question: 'Garampani sanctuary is located at',
+        question: 'Various names of Ravana are:',
   
-        choice1: 'Junagarh, Gujarat', 
+        choice1: ' Dasamukha', 
   
-        choice2: 'Diphu, Assam',   
-        choice3: 'Kohima, Nagaland', 
+        choice2: 'Dasahaanan',   
+        choice3: 'Lankeshwar', 
   
-        choice4: 'Gangtok, Sikkim',
-        answer: 2,  
+        choice4: 'All of the above',
+        answer: 4,  
       
     },
     {
-        question: 'Garampani sanctuary is located at',
+        question: 'Name of Ravana Parents:',
   
-        choice1: 'Junagarh, Gujarat', 
+        choice1: 'Visravasa', 
   
-        choice2: 'Diphu, Assam',   
-        choice3: 'Kohima, Nagaland', 
+        choice2: 'Kaikasi',   
+        choice3: 'Both A and B', 
   
-        choice4: 'Gangtok, Sikkim',
-        answer: 2,  
+        choice4: 'None of the above',
+        answer: 3,  
       
     },
     {
-        question: 'Garampani sanctuary is located at',
+        question: 'What is the name of book that Ravana written on astrology',
   
-        choice1: 'Junagarh, Gujarat', 
+        choice1: 'Ravana Sanhita', 
   
-        choice2: 'Diphu, Assam',   
-        choice3: 'Kohima, Nagaland', 
+        choice2: 'Tantra Shastra',   
+        choice3: 'Shani Sanhita', 
   
-        choice4: 'Gangtok, Sikkim',
-        answer: 2,  
+        choice4: 'None of the above',
+        answer: 1,  
       
     },
     {
-        question: 'Garampani sanctuary is located at',
+        question: ' In which state of India, Dussehra festival is celebrated with the parade of elephants?',
   
-        choice1: 'Junagarh, Gujarat', 
+        choice1: 'Uttarakhand', 
   
-        choice2: 'Diphu, Assam',   
-        choice3: 'Kohima, Nagaland', 
+        choice2: 'Uttar Pradesh',   
+        choice3: 'Karnataka', 
   
-        choice4: 'Gangtok, Sikkim',
-        answer: 2,  
+        choice4: 'Tamil Nadu',
+        answer: 3,  
       
     }]
 
